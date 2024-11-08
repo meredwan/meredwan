@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @meredwan
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Flutter
+- ![Animation - 1731053929854](https://github.com/user-attachments/assets/3efe9a1d-b1e4-41ab-9248-53ba0c4a884d)
+
 
 
 <!---
